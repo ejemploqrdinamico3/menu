@@ -1,2 +1,2 @@
 // MODIFICA ESTA URL POR LA DEL SERVICIO WEB DESPUES DE HABERLO DESPLEGADO
-const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbyZ6GPdVu2Zur0B-QoK1HDo6L9y7eTATX2GQCHOgP6vPrF_A086iy1Ih60Jau7A34zFvQ/exec";
+const AS_URL_BASE = "https://script.google.com/macros/s/AKfycbzuTRRisW_HUTXIbOfw4E9M4YENMMYqSVTTpsC9a3g0TTDJYpz_7Mkbvw-mXfnNAFw/exec";
